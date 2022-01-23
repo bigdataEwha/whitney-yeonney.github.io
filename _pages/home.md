@@ -40,22 +40,39 @@ We are a multi-disciplinary research group consisting of School of Business (Div
     <span class="sr-only">Next</span>
   </a>
 </div>
-METHODOLOGIES:<br />
-- Decision Making Theories
-- Sequential Decision Making
-- Mathematical Programming
-- Data Analytics and AI
-- Machine Learning/Deep Learning
-- Time Series Analytics
-<p>
-APPLICATIONS:<br />
-    - Health care
-    - Logistics
-    - Energy
-    - Finance
-    - Legal
-    - Education
-</p>
+<head>
+    <style>
+        .two{
+            column-count : 4;
+        }
+        .three{
+            column-count : 4;
+            column-gap : 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="two">
+            METHODOLOGIES:<br />
+            - Decision Making Theories
+            - Sequential Decision Making
+            - Mathematical Programming
+            - Data Analytics and AI
+            - Machine Learning/Deep Learning
+            - Time Series Analytics
+    </div>
+
+    <br><br>
+    <div class="three">
+           APPLICATIONS:<br />
+           - Health care
+           - Logistics
+           - Energy
+           - Finance
+           - Legal
+           - Education
+    </div>
+</body>
 
 <p align="center">
   <img class='img-responsive center-block' src="{{ site.url }}{{ site.baseurl }}/images/logopic/시그니처(가로_1.국영문혼합).png" style="width: 210px">
