@@ -48,10 +48,6 @@ We are a multi-disciplinary research group consisting of School of Business (Div
             - Data Analytics and AI
             - Machine Learning/Deep Learning
             - Time Series Analytics
-    </div>
-
-    <br><br>
-    <div class="three">
            APPLICATIONS:
            - Health care
            - Logistics
