@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-Big data analytics is a field with an enormous potential to create value in this knowledge-based society, and is considered one of the key growth engines for the next generation. The Master's degree in Big data analytics is designed to prepare students for challenging careers in the application of IT and data analytics to solve various problems in business and our society.
+We are a multi-disciplinary research group consisting of School of Business (Division: Management Science) and Big-data Analytics in the graduate school of Ewha Womans University. We tackle challenges in a wide range of industrial sectors using a number of AI approaches and data analytics.
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -41,11 +42,32 @@ Big data analytics is a field with an enormous potential to create value in this
 </div>
 
 
+		   <p>  </p><p>
 
 
-Big data professionals are a data scientist with strong knowledge about IT, data analysis skills and business application capability. Students in big data analytics program in Ewha Womans University learn business processes, data analysis skills and IT skills through our convergent and multi-disciplinary program covers business, information technology, computer science, and statistics field.
-
-The Doctor of Philosophy in big data analytics is the highest academic honor an institution can bestow to its students. The doctoral program is rigorous with an aim to train and prepare students to be critical and creative independent thinkers. A Big data analytics Ph.D. gives students the ability to perform critical analysis of existing work, and to undertake research studies to advance academic understanding in the data analytics field in the course of their Ph.D. studies and in their subsequent career.
+<div class="col-sm-4">
+		  METHODOLOGIES:<br />
+		  - Decision Making Theories
+		  - Sequential Decision Making
+          - Mathematical Programming
+          - Data Analytics and AI
+          - Machine Learning/Deep Learning
+          - Time Series Analytics
+    </div>
+    
+<div class="col-sm-4">
+		  APPLICATIONS:<br />
+		  - Health care
+		  - Logistics
+          - Energy
+          - Finance
+          - Legal
+          - Education
+    </div>
+	  </div>
+	</div>
+  </div>
+</div>
 
 <p align="center">
   <img class='img-responsive center-block' src="{{ site.url }}{{ site.baseurl }}/images/logopic/시그니처(가로_1.국영문혼합).png" style="width: 210px">
