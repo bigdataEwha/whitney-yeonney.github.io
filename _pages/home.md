@@ -40,18 +40,6 @@ We are a multi-disciplinary research group consisting of School of Business (Div
     <span class="sr-only">Next</span>
   </a>
 </div>
-<head>
-    <style>
-        .two{
-            column-count : 4;
-        }
-        .three{
-            column-count : 4;
-            column-gap : 3px;
-        }
-    </style>
-</head>
-<body>
     <div class="two">
             METHODOLOGIES:
             - Decision Making Theories
@@ -72,8 +60,7 @@ We are a multi-disciplinary research group consisting of School of Business (Div
            - Legal
            - Education
     </div>
-</body>
-
+    
 <p align="center">
   <img class='img-responsive center-block' src="{{ site.url }}{{ site.baseurl }}/images/logopic/시그니처(가로_1.국영문혼합).png" style="width: 210px">
 </p>
