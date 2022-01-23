@@ -48,14 +48,15 @@ METHODOLOGIES:<br />
 - Machine Learning/Deep Learning
 - Time Series Analytics
 
-<p>APPLICATIONS:<br />
+<p align="right">
+APPLICATIONS:<br />
 - Health care
 - Logistics
 - Energy
 - Finance
 - Legal
 - Education
-  
+</p>
 
 <p align="center">
   <img class='img-responsive center-block' src="{{ site.url }}{{ site.baseurl }}/images/logopic/시그니처(가로_1.국영문혼합).png" style="width: 210px">
