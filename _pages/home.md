@@ -48,7 +48,6 @@ METHODOLOGIES:<br />
 - Machine Learning/Deep Learning
 - Time Series Analytics
 
-</div>
 <p>APPLICATIONS:<br />
 - Health care
 - Logistics
