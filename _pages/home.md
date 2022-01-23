@@ -43,20 +43,18 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 
 
 
-<div class="col-sm-4">
-		  METHODOLOGIES:<br />
-		  - Decision Making Theories
-		  - Sequential Decision Making
+          METHODOLOGIES:<br />
+          - Decision Making Theories
+	  - Sequential Decision Making
           - Mathematical Programming
           - Data Analytics and AI
           - Machine Learning/Deep Learning
           - Time Series Analytics
     </div>
     
-<div class="col-sm-4">
-		  APPLICATIONS:<br />
-		  - Health care
-		  - Logistics
+	  APPLICATIONS:<br />
+	  - Health care
+          - Logistics
           - Energy
           - Finance
           - Legal
