@@ -53,7 +53,7 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 </head>
 <body>
     <div class="two">
-            METHODOLOGIES:<br />
+            METHODOLOGIES:
             - Decision Making Theories
             - Sequential Decision Making
             - Mathematical Programming
@@ -64,7 +64,7 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 
     <br><br>
     <div class="three">
-           APPLICATIONS:<br />
+           APPLICATIONS:
            - Health care
            - Logistics
            - Energy
