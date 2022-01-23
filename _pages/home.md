@@ -47,7 +47,6 @@ METHODOLOGIES:<br />
 - Data Analytics and AI
 - Machine Learning/Deep Learning
 - Time Series Analytics
-
 <p align="right">
 APPLICATIONS:<br />
 - Health care
