@@ -49,12 +49,12 @@ METHODOLOGIES:<br />
 - Time Series Analytics
 <p>
 APPLICATIONS:<br />
-- Health care
-- Logistics
-- Energy
-- Finance
-- Legal
-- Education
+    - Health care
+    - Logistics
+    - Energy
+    - Finance
+    - Legal
+    - Education
 </p>
 
 <p align="center">
