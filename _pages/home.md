@@ -42,8 +42,6 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 </div>
 
 
-		   <p>  </p><p>
-
 
 <div class="col-sm-4">
 		  METHODOLOGIES:<br />
