@@ -62,11 +62,11 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 <div class="col-md-4">
 
   <h4>APPLICATIONS</h4>
-  - Health care
-  - Logistics
-  - Energy
-  - Finance
-  - Legal
+  - Health care<br>
+  - Logistics<br>
+  - Energy<br>
+  - Finance<br>
+  - Legal<br>
   - Education
 
 </div>
