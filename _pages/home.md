@@ -42,7 +42,7 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 </div>
 <div class="row">
 
-<div class="col-xs-12 .col-sm-6 .col-md-8">
+<div class="col-xs-12 .col-sm-6 .col-md-12">
 
  <h4>METHODOLOGIES </h4>
  - Decision Making Theories <br>
@@ -54,12 +54,12 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 
 </div>
     
-<div class="col-xs-12 .col-sm-6 .col-md-8">
+<div class="col-xs-12 .col-sm-6 .col-md-12">
     
 </div>
     
     
-<div class="col-xs-12 .col-sm-6 .col-md-8">
+<div class="col-xs-12 .col-sm-6 .col-md-12">
 
  <h4>APPLICATIONS</h4>
  - Health care<br>
