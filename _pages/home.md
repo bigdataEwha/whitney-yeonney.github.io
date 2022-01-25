@@ -53,8 +53,12 @@ We are a multi-disciplinary research group consisting of School of Business (Div
  - Time Series Analytics
 
 </div>
-
+    
+<div class="col-md-4">
+    
 </div>
+    
+    
 <div class="col-md-4">
 
   <h4>APPLICATIONS</h4>
