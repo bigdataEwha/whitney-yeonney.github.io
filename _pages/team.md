@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 
 
-## Former visitors, BSc/ MSc students
+## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
