@@ -66,6 +66,9 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 
 </div>
     
+
+</div>
+
 <p align="center">
   <img class='img-responsive center-block' src="{{ site.url }}{{ site.baseurl }}/images/logopic/시그니처(가로_1.국영문혼합).png" style="width: 210px">
 </p>
