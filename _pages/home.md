@@ -45,11 +45,11 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 <div class="col-md-4">
 
   <h4>METHODOLOGIES </h4>
- * Decision Making Theories<br>
- * Sequential Decision Making<br>
- * Mathematical Programming<br>
- * Data Analytics and AI<br>
- * Machine Learning/Deep Learning<br>
+ * Decision Making Theories <br>
+ * Sequential Decision Making <br>
+ * Mathematical Programming <br>
+ * Data Analytics and AI <br>
+ * Machine Learning/Deep Learning <br>
  * Time Series Analytics
 
 </div>
