@@ -45,12 +45,12 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 <div class="col-md-4">
 
   <h4>METHODOLOGIES </h4>
- - Decision Making Theories<br>
- - Sequential Decision Making<br>
- - Mathematical Programming<br>
- - Data Analytics and AI<br>
- - Machine Learning/Deep Learning<br>
- - Time Series Analytics
+ * Decision Making Theories<br>
+ * Sequential Decision Making<br>
+ * Mathematical Programming<br>
+ * Data Analytics and AI<br>
+ * Machine Learning/Deep Learning<br>
+ * Time Series Analytics
 
 </div>
     
@@ -62,12 +62,12 @@ We are a multi-disciplinary research group consisting of School of Business (Div
 <div class="col-md-4">
 
   <h4>APPLICATIONS</h4>
-  - Health care<br>
-  - Logistics<br>
-  - Energy<br>
-  - Finance<br>
-  - Legal<br>
-  - Education
+  * Health care<br>
+  * Logistics<br>
+  * Energy<br>
+  * Finance<br>
+  * Legal<br>
+  * Education
 
 </div>
     
