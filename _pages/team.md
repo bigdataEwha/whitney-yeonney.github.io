@@ -78,6 +78,3 @@ permalink: /team/
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
-</div>
-
-</div>
