@@ -11,6 +11,8 @@ email: bigdataewha@gmail.com
 description: AAPLLab
 baseurl: ""
 url: ""
+google_analytics: 'G-DJCNXKGW86'
+
 
 include:
   - .htaccess
@@ -39,7 +41,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
-
-#Google analytics
-google_analytics: 'G-DJCNXKGW86'
