@@ -42,9 +42,4 @@ kramdown:
 
 
 #Google analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-DJCNXKGW86"
-    anonymize_ip         : # true, false (default)
+google_analytics: 'G-DJCNXKGW86'
